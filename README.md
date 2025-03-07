@@ -4,9 +4,9 @@ ExtraSet is an extended dataset focusing on individual differences in lipreading
 
 # Dataset
 
-Download CMLR from: [CMLR](https://www.vipazoo.cn/CMLR.html)
+Download CMLR from: [CMLR](https://www.vipazoo.cn/CMLR.html).
 
-Download ExtraSet from: [百度网盘](https://pan.baidu.com/s/1CP3zQ1Wjo_y9BJlh0Shd_w?pwd=cb16)提取码：cb16
+Download ExtraSet from: [百度网盘](https://pan.baidu.com/s/1CP3zQ1Wjo_y9BJlh0Shd_w?pwd=cb16)提取码：cb16.
 
 Decompress the downloaded datasets into '/data'.
 
